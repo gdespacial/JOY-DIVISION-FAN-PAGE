@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+
+}
+
+h1 { color: white
+}
+
+#spotifylogo {
+    width: 50px; 
+  }
+
+footer {
+ 
+    font-size: 40px;
+      color: black;
+     background-color: grey;
+     font-family:'Times'
+    }
+
+    #rymlogo {
+        width: 80px;
+      }
+
+      p {
+        color: white;
+      }

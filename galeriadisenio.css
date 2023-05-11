@@ -1,0 +1,27 @@
+body {
+    background-image: url(unknown.jpeg);
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Times';
+}
+
+
+footer {
+ 
+    font-size: 40px;
+      color: black;
+     background-color: grey;
+     font-family: 'Times';
+     
+    }
+
+    #rymlogo {
+        width: 80px;
+      }
+
+      #spotifylogo {
+        width: 50px; 
+      }
